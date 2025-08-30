@@ -1,6 +1,7 @@
 "# Youtube-Live-Stream-Chat-App" 
 
-An app which displays the Youtube livestream live chat on your Desktop.
+An electron app which displays the Youtube livestream live chat on your Desktop.
+
 
 How to use it:
 1. Run the Executable(.exe) file
